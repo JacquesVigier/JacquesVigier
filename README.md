@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JacquesVigier
 - 👀 I’m interested in Work at any project and learn more
-- 🌱 I’m currently learning sistem analisis
+- 🌱 I’m currently learning system analysis
 - 📫 How to reach me pierreparedes0@gmail.com
 
 <!---
