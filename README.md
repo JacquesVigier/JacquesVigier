@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @JacquesVigier
 - 👀 I’m interested in Work at any project and learn more
 - 🌱 I’m currently learning system analysis
+- I already made some work whith PHP, SQL and HTML 5
 - 📫 How to reach me pierreparedes0@gmail.com
 
 <!---
